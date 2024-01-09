@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Get To Know Me</title>
+<span> 
+</head>
+
+<body>
+  <header>
+    <h1 style="color: #e4214e;">Polly Mortimer</h1>
+    <main>
+      <div>
+        <img src="https://media.licdn.com/dms/image/C4E03AQGwnK3E6PpjLw/profile-displayphoto-shrink_800_800/0/1630493749309?e=2147483647&v=beta&t=EsFXfnX97698PLOKx0l0kXHY8aPIx1C6pjUTtlO_H6Y" alt="pmlipp" width="200px" />
+      </div>
+      <aside>
+        <article>
+          <b>A few things i love:</b>
+        </article>
+
+        <article>
+          <ul>
+            <li>Travelling to new places </li>
+            <li>Indulging in new foods</li>
+            <li>Learning new things</li>
+          </ul>
+        </article>
+      </aside>
+      <a href="https://uk.linkedin.com/in/polly-mortimer-b0b221218">Please feel free to connect with me here!</a>
+    </main>
+    <div>
+      <p>
+
+      </p>
+    </div>
+    <footer>
+      <div>
+        <i><b>I look forward to learning all about you too.</b></i>
+      </div>
+    </footer>
+</body>
+  </span>
+</html>
